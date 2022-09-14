@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/golden-shoe-project/static/css/main.d041608e.css",
+    "main.js": "/golden-shoe-project/static/js/main.ef6f749a.js",
+    "static/js/787.cc18293e.chunk.js": "/golden-shoe-project/static/js/787.cc18293e.chunk.js",
+    "static/media/peter-arthur-profile.jpg": "/golden-shoe-project/static/media/peter-arthur-profile.0e1a76391ece5e40deb2.jpg",
+    "static/media/agile-methodology.jpeg": "/golden-shoe-project/static/media/agile-methodology.99b6b4c0035a8b24ed8c.jpeg",
+    "static/media/good-work-shoes.jpeg": "/golden-shoe-project/static/media/good-work-shoes.bace90c7be81c3a726a1.jpeg",
+    "static/media/nice-work-shoes.jpeg": "/golden-shoe-project/static/media/nice-work-shoes.9e5be26638e046815453.jpeg",
+    "static/media/shoe-image-four.jpeg": "/golden-shoe-project/static/media/shoe-image-four.04aa4bd261a64894ea6d.jpeg",
+    "static/media/shoe-image-one.jpeg": "/golden-shoe-project/static/media/shoe-image-one.2b6e5976fcdac8645aaa.jpeg",
+    "static/media/shoe-image-two.jpeg": "/golden-shoe-project/static/media/shoe-image-two.c3cf730784aeb1f4cf66.jpeg",
+    "static/media/shoe-image-three.jpeg": "/golden-shoe-project/static/media/shoe-image-three.d73da6654880cf20615b.jpeg",
+    "static/media/and-logo.png": "/golden-shoe-project/static/media/and-logo.ba245ff6677d7d36c2f2.png",
+    "index.html": "/golden-shoe-project/index.html",
+    "main.d041608e.css.map": "/golden-shoe-project/static/css/main.d041608e.css.map",
+    "main.ef6f749a.js.map": "/golden-shoe-project/static/js/main.ef6f749a.js.map",
+    "787.cc18293e.chunk.js.map": "/golden-shoe-project/static/js/787.cc18293e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d041608e.css",
+    "static/js/main.ef6f749a.js"
+  ]
+}
