@@ -1,0 +1,61 @@
+.agile-header {
+  background: #303030;
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.agile-header-text {
+  width: 90%;
+}
+
+.agile-methodology-image-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 3%;
+}
+
+.agile-methodology-image {
+  width: 50%;
+
+  height: 170px;
+}
+
+.agile-explanation-section {
+  background: white;
+  color: #303030;
+  display: flex;
+  justify-content: center;
+}
+
+.taylor-and-francis-section {
+  background: #303030;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.agile-explanation-width,
+.taylor-and-francis-width {
+  width: 80%;
+}
+
+li {
+  margin-bottom: 2%;
+}
+
+@media (max-width: 768px) {
+  .agile-header-text {
+    width: 60%;
+  }
+
+  .agile-methodology-image {
+    width: 60%;
+  }
+
+  .agile-explanation-width,
+  .taylor-and-francis-width {
+    width: 60%;
+  }
+}

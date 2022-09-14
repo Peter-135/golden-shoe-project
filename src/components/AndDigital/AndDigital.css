@@ -1,0 +1,43 @@
+.and-digital-logo-div {
+  display: flex;
+  justify-content: center;
+}
+
+.and-digital-logo {
+  width: 30%;
+  height: 170px;
+}
+
+.intro-section,
+.services-section {
+  background: #303030;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.values-section {
+  background: white;
+  color: #303030;
+  display: flex;
+  justify-content: center;
+}
+
+.intro-width,
+.values-width,
+.services-width {
+  width: 80%;
+}
+
+@media (max-width: 768px) {
+  .and-digital-logo {
+    width: 50%;
+    height: 170px;
+  }
+
+  .intro-width,
+  .values-width,
+  .services-width {
+    width: 60%;
+  }
+}

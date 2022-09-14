@@ -1,0 +1,59 @@
+.golden-shoe-footer {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #111;
+  margin-top: 5%;
+}
+
+.white-text {
+  color: white;
+}
+
+.smaller-text {
+  font-size: 0.8rem;
+}
+
+.keep-in-contact {
+  width: 33%;
+  /* background-color: green; */
+  text-align: center;
+}
+/* .keep-in-contact > p {
+  font-size: 0.6rem;
+} */
+
+.about-us {
+  width: 33%;
+  /* background-color: yellow; */
+  text-align: center;
+}
+
+.customer-service {
+  width: 33%;
+  /* background-color: red; */
+  text-align: center;
+}
+
+.social-media-icons {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.gold {
+  color: #ffbf00;
+}
+
+.customer-service > p:hover {
+  color: #ffbf00;
+  cursor: pointer;
+}
+
+.about-us > p:hover {
+  color: #ffbf00;
+  cursor: pointer;
+}
+
+.social-media-icons:hover {
+  /* color: #ffbf00; */
+  cursor: pointer;
+}

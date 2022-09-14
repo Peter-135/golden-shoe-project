@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import { Routes, Route } from "react-router-dom";
+import AndDigital from "./components/AndDigital/AndDigital";
+import AgileBenefits from "./components/AgileBenefits/AgileBenefits.js";
+import Navbar from "./components/Navbar";
+import NextSteps from "./components/NextSteps/NextSteps";
+import ChallengesAndSolutions from "./components/ChallengesAndSolutions/ChallengesAndSolutions";
+import PrototypeDesign from "./components/PrototypeDesign/PrototypeDesign";
+import Finish from "./components/Finish/Finish";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<AndDigital />} />
+        <Route path="/agile-benefits" element={<AgileBenefits />} />
+        <Route path="next-steps" element={<NextSteps />} />
+        <Route
+          path="challenges-and-solutions"
+          element={<ChallengesAndSolutions />}
+        />
+        <Route path="prototype-design" element={<PrototypeDesign />} />
+        <Route path="finish" element={<Finish />} />
+      </Routes>
+    </>
   );
 }
 

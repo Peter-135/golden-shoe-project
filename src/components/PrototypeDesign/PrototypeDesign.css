@@ -1,0 +1,204 @@
+.prototype-navbar {
+  background-color: #111;
+  display: flex;
+  color: white;
+}
+
+.golden-shoe {
+  display: flex;
+  justify-content: center;
+  width: 18%;
+  color: #ffbf00;
+}
+
+.navbar-font {
+  font-size: 1.2rem;
+}
+.navbar-options {
+  display: flex;
+  justify-content: space-evenly;
+  width: 65%;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  width: 15%;
+}
+
+.golden-shoe-style {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.navbar-options > p:hover {
+  color: #ffbf00;
+  cursor: pointer;
+}
+
+.icons:hover {
+  cursor: pointer;
+}
+
+.shoe-background {
+  width: 100%;
+}
+
+.shoe-selection {
+  display: flex;
+
+  justify-content: space-around;
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+
+.shoe-div-one,
+.shoe-div-two,
+.shoe-div-three,
+.shoe-div-four {
+  width: 18%;
+  padding: 2%;
+}
+
+.shoe-text > p {
+  font-size: 0.7rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+.shoe-image {
+  width: 100%;
+  min-height: 180px;
+}
+
+.black-border {
+  border: 1px black solid;
+  cursor: pointer;
+  color: #303030;
+}
+
+.shop-button-div {
+  display: flex;
+  justify-content: right;
+  margin-right: 12px;
+  margin-top: 40px;
+}
+
+.shop-button {
+  height: 37px;
+  width: 120px;
+  border: black solid 1.5px;
+  border-radius: 3px;
+  background-color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.shop-button:hover {
+  background: black;
+  color: white;
+}
+
+.image-and-sign-up {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nice-shoes-image-div {
+  display: flex;
+  justify-content: center;
+}
+
+.nice-shoes-image {
+  width: 60%;
+}
+
+.newsletter-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.seventy-percent-width {
+  width: 70%;
+}
+
+.newsletter-info > input {
+  color: #303030;
+  border: 1.5px solid black;
+  padding: 4px;
+  width: 200px;
+  outline: none;
+}
+
+.newsletter-info > input:focus::placeholder {
+  color: transparent;
+}
+
+.email {
+  display: flex;
+}
+
+.some-margin {
+  margin-left: 5px;
+}
+
+.submit-button-div {
+  margin-top: 10px;
+}
+
+.submit-button {
+  background: black;
+  color: white;
+  height: 30px;
+  width: 120px;
+  margin-left: 18px;
+  border: black solid 1.5px;
+  border-radius: 3px;
+
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.submit-button:hover {
+  background: white;
+  color: black;
+}
+
+input:focus {
+  outline: none;
+}
+
+@media (max-width: 768px) {
+  .prototype-navbar,
+  .navbar-options,
+  .shoe-selection,
+  .image-and-sign-up {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .icons {
+    margin-bottom: 2%;
+  }
+
+  .shoe-div-one,
+  .shoe-div-two,
+  .shoe-div-three,
+  .shoe-div-four {
+    width: 50%;
+    padding: 2%;
+    margin-bottom: 2%;
+  }
+
+  .shop-button-div {
+    display: flex;
+    justify-content: center;
+  }
+
+  .nice-shoes-image {
+    width: 80%;
+  }
+}
