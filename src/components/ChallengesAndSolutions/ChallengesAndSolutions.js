@@ -31,7 +31,7 @@ const ChallengesAndSolutions = () => {
           <p>Golden Shoe have no mobile app</p>
           <p>
             Quarterly releases, impossible to get any small changes in quicker
-            than this.{" "}
+            than this{" "}
           </p>
           <p>
             Need to upskill current workforce and convince leadership team of
@@ -39,7 +39,7 @@ const ChallengesAndSolutions = () => {
           </p>
           <p>Old website</p>
           <p>
-            Can only phone the customer service helpline between 9am-5pm
+            Can only phone the customer service helpline between 9am-5pm,
             Monday-Friday
           </p>
           <p>
@@ -74,9 +74,9 @@ const ChallengesAndSolutions = () => {
           </p>
           <p>Improve online presence (great for marketing)</p>
           <p>
-            Create a new, modern website and a mobile that are regularly updated
-            (stock regularly updated, improve conversion rate more customers
-            buy)
+            Create a new, modern website and a mobile app that are regularly
+            updated (stock regularly updated, improve conversion rate more
+            customers buy)
           </p>
           <p>
             Improve customer service by allowing more than just phone calls to
@@ -98,7 +98,7 @@ const ChallengesAndSolutions = () => {
         <div className="eighty-percent-width">
           <h2 className="center-text">IMPACT</h2>
           <p className="center-text">
-            A focus on improving the website and creating a mobile app would
+            A focus on creating a new website and creating a mobile app would
             lead to:{" "}
           </p>
 
@@ -114,7 +114,7 @@ const ChallengesAndSolutions = () => {
             staff understand Agile ways of working, increasing team
             collabration, producing shorter delivery cycles providing value to
             both clients and customers, and efficiency through continous
-            improvement through constant testing and experimentation.
+            improvement through constant testing and experimentation
           </p>
           <p>
             <b>An increase in user base (no. of users)</b>, as customer service
@@ -124,15 +124,15 @@ const ChallengesAndSolutions = () => {
           <p>
             <b>Higher rates of customer satisfaction</b> As customers can easily
             contact the relevant departments when issues arise and can be
-            solved, and stock is regularly updated.
+            solved, and stock is regularly updated
           </p>
           <p>
             <b>A stronger brand name</b>, as social media accounts like facebook
             and twitter are updated regularly and customers know what new
-            products Goldens Shoes are creating. This would also solve the
-            problem of customers disliking the shoe style or colour, as there
-            will be greater variety to choose from which customer will be aware
-            of because of social media and the regularly updated website.
+            products Golden Shoe are creating. This would also solve the problem
+            of customers disliking the shoe style or colour, as there will be
+            greater variety to choose from which customer will be aware of
+            because of social media and the regularly updated website
           </p>
 
           <p className="center-text">

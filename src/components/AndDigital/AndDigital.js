@@ -65,7 +65,7 @@ const AndDigital = () => {
           <h3>Delight</h3>
           <p>
             Good is a given: we demand more. We look for joy in the work we do,
-            delivering services and products that people love and value
+            delivering services and products that people love and value.
           </p>
         </div>
       </div>
@@ -74,24 +74,24 @@ const AndDigital = () => {
           <h2>Guide, Build & Equip: The AND Service Model</h2>
           <h3>Guide</h3>
           <p>
-            Define the path forward. We can provide you with the essential
+            Define the path forward: We can provide you with the essential
             insight and support you need to navigate a shifting business and
             technology landscape with greater speed and confidence. This means
-            we can identify the challenge you face as a company and discover
+            we can identify the challenges you face as a company and discover
             what the right solutions would be, whilst uncovering new
-            opportunities for growth and innovation. We use skills in UX and
-            Design and digital consulting to help aid this process.
+            opportunities for growth and innovation. We use skills in areas such
+            as UX and Design, and digital consulting to help aid this process.
           </p>
           <h3>Build</h3>
           <p>
-            Ship better products, faster. We work alongside our clients to speed
+            Ship better products, faster: We work alongside our clients to speed
             up the delivery of infrastructure projects, upskilling your people
             as we go. Our diverse range of skills and expertise across software
             engineering, product management, delivery and UX will us ensure your
             digital transformation is impactful and sustainable. This means we
-            can improve the speed products get release whilst product quality is
-            not compromised, and your staff's digital skills will improve as we
-            share our knowledge.
+            can improve the speed products get released whilst product quality
+            is not compromised, and your staff's digital skills will improve as
+            we share our knowledge.
           </p>
           <h3>Equip</h3>
           <p>

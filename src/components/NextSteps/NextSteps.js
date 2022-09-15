@@ -38,19 +38,19 @@ const NextSteps = () => {
             is extremely important to have an online presence to increase your
             reputation and generate higher profits. With AND Digital's
             specialists, we can greatly help improve the website design and
-            functionality to provide a better user experience.
+            functionality to provide a better user experience
           </p>
           <p>
             <strong>Marketing: </strong>
             Having updated Twitter and Facebook accounts would go a long way in
-            making Golden Shoes a more well known company.
+            making Golden Shoes a more well known company
           </p>
           <p>
             <strong>Creating another physical store: </strong> So that more
             profits can be generated and not always directly competing with main
             competition. With the right upskilling that AND Digital can provide,
             if Golden Shoe decides to have another physical store, they should
-            be able to provide a better service.
+            be able to provide a better service
           </p>
         </div>
       </div>
@@ -81,7 +81,7 @@ const NextSteps = () => {
           <p>
             {" "}
             <strong>- An easy to navigate website</strong> which is{" "}
-            <strong>appealing to look at</strong>, with lots of whitespace.
+            <strong>appealing to look at</strong>, with lots of whitespace
           </p>
           <p>
             {" "}
@@ -122,8 +122,7 @@ const NextSteps = () => {
             <p>- Improving the Android booking flow</p>
             <p>- iPhone X compability</p>
             <p>
-              {" "}
-              The addition of essential missing features - like the display of
+              - The addition of essential missing features - like the display of
               departure gate information
             </p>
             <p>
@@ -144,19 +143,19 @@ const NextSteps = () => {
           <p>
             <strong>- Accelerate speed to value</strong>- Typical feature
             release time for BA was one release per six months: in comparison,
-            the first six months of our partnership saw this increase to 18.{" "}
+            the first six months of our partnership saw this increase to 18
           </p>
 
           <p>
             <strong>- Raise quality standards</strong> - with more rigorous
             testing and engineering practices in place, BA digital products are
-            more robust and better able to incorporate future requirements.
+            more robust and better able to incorporate future requirements
           </p>
           <p>
             <strong>- Transition from Waterfall to Agile</strong> - deeper
             understanding of Agile principles and collaborative ways of working
             ensure the joint team responds more rapidly and efficiently to
-            business and customer needs.
+            business and customer needs
           </p>
           <h3 className="center-text">Impact</h3>
           <p>

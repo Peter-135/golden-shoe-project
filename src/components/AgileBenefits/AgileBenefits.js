@@ -31,14 +31,14 @@ const AgileBenefits = () => {
           </p>
           <p>
             Scrum in Agile is a process that allows software development teams
-            to focus on delivering business in the shortest time by rapidly and
-            repeated inspecting actual working software. It focuses on
-            accountability, teamwork and iterate progress towards well-defined
-            goals. There are generally daily stand up meetings within Scrum
-            teams, and can have sprints that generally last up to one to few
-            week, where a sprint is a short, time-boxed period when a scrum team
-            works to complete a set amount of work. We provide both Agile and
-            Scrum coaching at And Digital.
+            to focus on delivering business value in the shortest time by
+            rapidly and repeated inspecting actual working software. It focuses
+            on accountability, teamwork and progress towards well-defined goals.
+            There are daily stand up meetings within Scrum teams, and can have
+            sprints that generally last up to one to few weeks. A sprint is a
+            short, time-boxed period where a Scrum team works to complete a set
+            amount of work. We provide both Agile and Scrum coaching at And
+            Digital.
           </p>
           <h3>Why use Agile?</h3>
           <p>
@@ -55,7 +55,7 @@ const AgileBenefits = () => {
           <p>
             <strong>- Improved collaboration</strong> (which leads to stronger
             teams). Build and enable high performing and cohesive teams that
-            build quality products together.
+            build quality products together
           </p>
 
           <p>
@@ -67,7 +67,7 @@ const AgileBenefits = () => {
           <p>
             <strong>- A culture of testing and learning</strong> (which leads to
             higher quality products). Embrace continuous improvement through
-            constant testing and experimentation.
+            constant testing and experimentation
           </p>
         </div>
       </div>
@@ -119,13 +119,13 @@ const AgileBenefits = () => {
             in the UK, and one in Miami. These bootcamps were succesful. The
             partnership with T&F continued, with the development of a T&F
             academy - an initivative designed to make Agile traning available on
-            a global scale
+            a global scale.
           </p>
           <h3>Key Outcomes</h3>
-          As a result of the work we delivered with Taylor & Francis:
+          <p>As a result of the work we delivered with Taylor & Francis:</p>
           <p>
             - The T&F Agile Bootcamp is now compulsory for its 90-strong
-            technology departmen
+            technology department
           </p>
           <p>
             - Their team has developed a breadth of skills, including Scrum
@@ -134,16 +134,16 @@ const AgileBenefits = () => {
           </p>
           <p>
             - T&F has access to an interactive Confluence that offers bootcamp
-            materials, tech discussions and resource sharing.
+            materials, tech discussions and resource sharing
           </p>
           <p>
             Their tech recruitment has benefitted, as they can share their
-            knowledge on modern engineering practices and Agile expertise.
+            knowledge on modern engineering practices and Agile expertise
           </p>
           <p>
             - The partnership with AND Digital continues, as together, we
             develop the T&F Academy - an initative designed to make training
-            available on a global scale.
+            available on a global scale
           </p>
         </div>
       </div>
