@@ -20,7 +20,9 @@ const PrototypeDesign = () => {
     <div>
       <div className="prototype-navbar">
         <div className="golden-shoe">
-          <p className="golden-shoe-style navbar-font">Golden Shoe</p>
+          <p className="golden-shoe-style navbar-font center-text">
+            Golden Shoe
+          </p>
         </div>
         <div className="navbar-options">
           <p className="navbar-font">New Arrivals</p>
@@ -36,14 +38,18 @@ const PrototypeDesign = () => {
         </div>
       </div>
       <div className="shoe-background-div">
-        <img src={GoodWorkShoes} className="shoe-background" />
+        <img
+          src={GoodWorkShoes}
+          className="shoe-background"
+          alt="shoes-background"
+        />
       </div>
       <div className="shop-button-div">
         <button className="shop-button">SHOP ALL</button>
       </div>
       <div className="shoe-selection">
         <div className="shoe-div-one shoe-div-size black-border">
-          <img src={ShoeImageOne} className="shoe-image" />
+          <img src={ShoeImageOne} className="shoe-image" alt="shoe-one" />
           <div className="shoe-text">
             <p>Pembrey</p>
             <p>Bookbinder Fume Penny Loafer Black</p>
@@ -51,7 +57,7 @@ const PrototypeDesign = () => {
           </div>
         </div>
         <div className="shoe-div-two shoe-div-size black-border">
-          <img src={ShoeImageTwo} className="shoe-image" />
+          <img src={ShoeImageTwo} className="shoe-image" alt="shoe-two" />
           <div className="shoe-text">
             <p>Haverhill</p>
             <p>Rois Calf Derby Burgundy</p>
@@ -59,7 +65,7 @@ const PrototypeDesign = () => {
           </div>
         </div>
         <div className="shoe-div-three shoe-div-size black-border">
-          <img src={ShoeImageThree} className="shoe-image" />
+          <img src={ShoeImageThree} className="shoe-image" alt="shoe-three" />
           <div className="shoe-text">
             <p>Haverhill</p>
             <p>Roisi Calf Derby Black</p>
@@ -67,7 +73,7 @@ const PrototypeDesign = () => {
           </div>
         </div>
         <div className="shoe-div-four shoe-div-size black-border">
-          <img src={ShoeImageFour} className="shoe-image" />
+          <img src={ShoeImageFour} className="shoe-image" alt="shoe-four" />
           <div className="shoe-text">
             <p>Shannon T</p>
             <p>Soft Grain Calf Leather Derby Burnt</p>
@@ -77,7 +83,7 @@ const PrototypeDesign = () => {
       </div>
       <div className="image-and-sign-up">
         <div className="nice-shoes-image-div">
-          <img src={NiceWorkShoes} className="nice-shoes-image" />
+          <img src={NiceWorkShoes} className="nice-shoes-image" alt="shoes" />
         </div>
         <div className="newsletter-info center-text">
           <h3>SIGN UP FOR OUR NEWSLETTER </h3>

@@ -17,7 +17,11 @@ const AgileBenefits = () => {
         </h1>
       </div>
       <div className="agile-methodology-image-div">
-        <img src={AgileMethodologyImage} className="agile-methodology-image" />{" "}
+        <img
+          src={AgileMethodologyImage}
+          className="agile-methodology-image"
+          alt="agile-methodology"
+        />{" "}
       </div>
 
       <div className="agile-explanation-section center-text">

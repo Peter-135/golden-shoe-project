@@ -11,7 +11,11 @@ const AndDigital = () => {
   return (
     <div className="and-digital-container">
       <div className="and-digital-logo-div">
-        <img src={AndDigitalLogo} className="and-digital-logo" />{" "}
+        <img
+          src={AndDigitalLogo}
+          className="and-digital-logo"
+          alt="and-digital-logo"
+        />{" "}
       </div>
 
       <div className="intro-section center-text">

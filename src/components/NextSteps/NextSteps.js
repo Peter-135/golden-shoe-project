@@ -11,7 +11,11 @@ const NextSteps = () => {
     <div className="next-steps-container">
       <div className="target-customer-div">
         <div className="peter-profile-pic-div">
-          <img src={PeterProfilePic} className="peter-profile-pic-image" />
+          <img
+            src={PeterProfilePic}
+            className="peter-profile-pic-image"
+            alt="peter-profile-pic"
+          />
         </div>
         <p className="target-customer-paragraph">
           Target Customer: People like me! In other words, people who are in
@@ -23,7 +27,6 @@ const NextSteps = () => {
           regular basis. Therefore having a website and mobile app would be
           essential for Golden Shoe.
         </p>
-        {/* </div> */}
       </div>
       <div className="costs-section">
         <div className="costs-involved">
