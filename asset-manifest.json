@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/golden-shoe-project/static/css/main.d041608e.css",
-    "main.js": "/golden-shoe-project/static/js/main.ef6f749a.js",
+    "main.js": "/golden-shoe-project/static/js/main.6f86e95b.js",
     "static/js/787.cc18293e.chunk.js": "/golden-shoe-project/static/js/787.cc18293e.chunk.js",
     "static/media/peter-arthur-profile.jpg": "/golden-shoe-project/static/media/peter-arthur-profile.0e1a76391ece5e40deb2.jpg",
     "static/media/agile-methodology.jpeg": "/golden-shoe-project/static/media/agile-methodology.99b6b4c0035a8b24ed8c.jpeg",
@@ -14,11 +14,11 @@
     "static/media/and-logo.png": "/golden-shoe-project/static/media/and-logo.ba245ff6677d7d36c2f2.png",
     "index.html": "/golden-shoe-project/index.html",
     "main.d041608e.css.map": "/golden-shoe-project/static/css/main.d041608e.css.map",
-    "main.ef6f749a.js.map": "/golden-shoe-project/static/js/main.ef6f749a.js.map",
+    "main.6f86e95b.js.map": "/golden-shoe-project/static/js/main.6f86e95b.js.map",
     "787.cc18293e.chunk.js.map": "/golden-shoe-project/static/js/787.cc18293e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d041608e.css",
-    "static/js/main.ef6f749a.js"
+    "static/js/main.6f86e95b.js"
   ]
 }
